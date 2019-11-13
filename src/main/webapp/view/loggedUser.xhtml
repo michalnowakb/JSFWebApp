@@ -6,9 +6,13 @@
       xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
       xmlns:f="http://xmlns.jcp.org/jsf/core">
 <body>
-    <h:form>
-        <h1>Welcome Back! ${userBean.user.userName}</h1>
-        <h:commandButton value="LogOut" action="signIn"/>
-    </h:form>
+    <ui:composition template="/WEB-INF/templates/template.xhtml">
+        <ui:define name="content">
+            <h:form>
+                <h1>Welcome Back! ${userBean.user.userName}</h1>
+                <h:commandButton value="LogOut" action="signIn"/>
+            </h:form>
+        </ui:define>
+    </ui:composition>
 </body>
 </html>

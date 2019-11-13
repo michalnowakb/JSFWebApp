@@ -6,7 +6,37 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03fcc777-6ce2-4e36-bf13-a002653b58bf" name="Default Changelist" comment="" />
+    <list default="true" id="03fcc777-6ce2-4e36-bf13-a002653b58bf" name="Default Changelist" comment="commit changes">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/contentTemplate.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/footerTemplate.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/headerTemplate.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/templates/template.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/evilpigeon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/spartaLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/view/UserNameBeenUsed.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sparta/mjn/services/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sparta/mjn/services/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/loggedUser.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/loggedUser.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/login.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/login.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/register.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/register.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/signIn.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/signIn.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/welcomeNewUser.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/welcomeNewUser.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JSFWebApp/WEB-INF/classes/com/sparta/mjn/components/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JSFWebApp/WEB-INF/classes/com/sparta/mjn/components/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JSFWebApp/WEB-INF/classes/com/sparta/mjn/services/RegistrationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/JSFWebApp/WEB-INF/classes/com/sparta/mjn/services/RegistrationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JSFWebApp/view/loggedUser.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JSFWebApp/view/loggedUser.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JSFWebApp/view/login.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JSFWebApp/view/login.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JSFWebApp/view/register.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JSFWebApp/view/register.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/JSFWebApp/view/signIn.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/target/JSFWebApp/view/signIn.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sparta/mjn/components/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sparta/mjn/components/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sparta/mjn/services/RegistrationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sparta/mjn/services/RegistrationService.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +48,13 @@
       <list>
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="CSS File" />
         <option value="jsf" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -31,13 +65,23 @@
   </component>
   <component name="ProjectId" id="1TVwEpC1FKRgV4sRnHV1EeyW2jv" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michal Nowak\IdeaProjects\JSFWebApp\src\main\webapp\WEB-INF\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michal Nowak\IdeaProjects\JSFWebApp\src\main\webapp\resources\images" />
+      <recent name="C:\Users\Michal Nowak\IdeaProjects\JSFWebApp\src\main\webapp\resources\css" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.sparta.mjn.services" />
     </key>
@@ -142,10 +186,29 @@
       <workItem from="1573576092896" duration="220000" />
       <workItem from="1573576731711" duration="2446000" />
       <workItem from="1573601178729" duration="1579000" />
+      <workItem from="1573637686412" duration="4726000" />
+      <workItem from="1573642528397" duration="4152000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit changes" />
   </component>
 </project>
